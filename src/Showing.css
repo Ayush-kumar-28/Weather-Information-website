@@ -1,0 +1,12 @@
+.Abc{
+    text-align: center;
+}
+
+.CardComponent{
+    display: flex;
+    justify-content: center;
+}
+p{
+    font-weight: bold;
+    color: rgb(29, 28, 28);
+}
